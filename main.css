@@ -1,0 +1,18 @@
+h2 {
+    background-color: #f775d7;
+    color: #ffffff;
+    padding: 5px;
+  }
+
+  .title {
+    font-size: 65px;
+    color: #cbf510;
+  }
+
+  p {
+      font-size: 44px;
+  }
+
+  body {
+      background-color: papayawhip;
+  }
