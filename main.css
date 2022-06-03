@@ -17,3 +17,12 @@ h1 {
       background-color: papayawhip;
 
   }
+
+  li {
+    display: block;
+    float: left;
+    color: #f775d7;
+    background-color: white;
+    padding: 14px 16px;
+    margin-right: 15px;
+  }
