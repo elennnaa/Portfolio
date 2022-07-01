@@ -1,0 +1,49 @@
+h1 {
+    background-color: #f775d7;
+    color: #ffffff;
+    padding: 5px;
+  }
+
+  h2 {
+    font-size: 50px;
+    color: #f775d7;
+  }
+
+  .title {
+    font-size: 65px;
+    color: #bde219;
+  }
+
+  p {
+      font-size: 40px;
+  }
+
+  .footerp{
+    font-size: 12px;
+  }
+
+  body {
+      background-color: papayawhip;
+
+  }
+
+  li {
+    display: block;
+    float: right;
+    color: #f775d7;
+    background-color: #f775d7;
+    padding: 14px 16px;
+    margin-right: 15px;
+  }
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 30px;
+    background-color: rgb(198, 208, 210);
+    color: white;
+    text-align: center;
+    padding-bottom: 12px;
+ }
